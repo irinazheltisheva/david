@@ -27,7 +27,7 @@
   "dependencies": {
     "async": "^3.1.0",
     "cli-color-tty": "^2.0.0",
-    "cli-table": "^0.3.1",
+    "cli-table": "^0.3.11",
     "exit": "^0.1.2",
     "minimist": "^1.1.0",
     "multimatch": "^4.0.0",
