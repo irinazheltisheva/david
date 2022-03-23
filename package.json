@@ -29,7 +29,7 @@
     "cli-color-tty": "^2.0.0",
     "cli-table": "^0.3.1",
     "exit": "^0.1.2",
-    "minimist": "^1.1.0",
+    "minimist": "^1.2.6",
     "multimatch": "^4.0.0",
     "npm": "^6.10.2",
     "semver": "^6.3.0",
