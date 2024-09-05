@@ -30,8 +30,8 @@
     "cli-table": "^0.3.1",
     "exit": "^0.1.2",
     "minimist": "^1.1.0",
-    "multimatch": "^4.0.0",
-    "npm": "^6.10.2",
+    "multimatch": "^7.0.0",
+    "npm": "^10.6.0",
     "semver": "^6.3.0",
     "xtend": "^4.0.0"
   },
